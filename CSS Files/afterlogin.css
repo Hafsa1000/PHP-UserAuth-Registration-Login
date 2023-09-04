@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+
+.txt{
+    width: 50%;
+    margin: 250px auto;
+    padding: 40px;
+    border: 1px solid black;
+    border-radius: 16px;
+}
+
+h1{
+    text-align: center;
+}
+
+.btn{
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    padding: 5px 10px;  
+    background-color: black;
+    color: white;  
+}
+

@@ -1,0 +1,40 @@
+.txt{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.myTable {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+th, td {
+    padding: 8px;
+    text-align: left;    
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color:#f5f5f5;}
+
+th {
+    background-color: black;
+    color: white;
+}
+
+.btn{
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    padding: 5px 10px;  
+    background-color: black;
+    color: white;  
+}
+
+h1{
+    text-align: center;
+}
+
+
+
+
+

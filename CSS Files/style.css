@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+
+input{
+    width: 100%;
+    height: 60px;
+    border-radius: 14px;
+    border: 1px solid lightgray;
+    margin-bottom: 20px;
+    font-size: 1rem;
+    padding: 2px 25px;
+    color: rgb(50, 49, 49);
+    box-sizing: border-box;
+}
+
+p{
+    color: #A2A2A2;
+    font-size: 1.1rem;
+}
+
+a{
+    color: #787878;
+}
+
+#heading{
+    font-size: 3rem;
+}
+
+.login{
+    width: 400px;
+    margin: 100px auto;
+}
+
+.btn{
+    width: 70%;
+    height: 55px;
+    border-radius: 55px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 1.2rem;
+    margin: 15px 0;
+}
