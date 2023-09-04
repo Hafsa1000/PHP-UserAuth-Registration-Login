@@ -84,10 +84,10 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $hashedPassword = password_hash($userPassword, PASSWORD_DEFAULT);
 
     // Connecting database
-    $host = "127.0.0.1";
-    $username = "root";
-    $password = "12345678";
-    $database = "form";
+    $host = " ";
+    $username = " ";
+    $password = " ";
+    $database = " ";
 
     $conn = mysqli_connect($host, $username, $password, $database);
 
