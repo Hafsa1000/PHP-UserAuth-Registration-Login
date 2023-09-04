@@ -4,9 +4,9 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
   $id = $_POST['data'];
   $user = $_POST['data2'];
 
-  $host = "127.0.0.1";
-  $username = "root";
-  $password = "12345678";
+  $host = " ";
+  $username = " ";
+  $password = " ";
   $database = "form";
 
   $conn = mysqli_connect($host, $username, $password, $database);
