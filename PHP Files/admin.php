@@ -16,9 +16,9 @@ session_start();
         </div>
         <?php
         // Database connection code
-        $host = "127.0.0.1";
-        $username = "root";
-        $password = "12345678";
+        $host = " ";
+        $username = " ";
+        $password = " ";
         $database = "form";
 
         $conn = mysqli_connect($host, $username, $password, $database);
