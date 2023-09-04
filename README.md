@@ -46,6 +46,6 @@ git clone https://github.com/Hafsa1000/PHP-UserAuth-Registration-Login.git
 
 5. You can now access the registration form at `localhost/project-folder/signup.html`
 6. Login form is at `localhost/project-folder/index.html`
-7. Admin dashboard is at `localhost/project-folder/admin.php`
+7. Admin dashboard is at `localhost/project-folder/PHP Files/admin.php`
 
 
